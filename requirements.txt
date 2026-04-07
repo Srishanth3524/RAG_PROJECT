@@ -21,3 +21,4 @@ reflex==0.8.28
 gunicorn
 reportlab
 chromadb
+reflex reflex-cli
